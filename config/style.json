@@ -1,0 +1,46 @@
+{
+	"colors": {
+		"raw": {
+			"midnight": "#181521",
+			"hot-pink": "#CC49C4",
+			"blurple": "#749AFC",
+			"dark-purple": "#1b152b",
+			"white": "#FFFFFF",
+			"light-purple": "#8b7aa1",
+			"dark-blue":"#040C16",
+			"light-blue":"#006DF8"
+
+		},
+	
+		"elements": {
+			"bg": "dark-blue",
+			"bg-alt": "light-purple",
+			"accent": "hot-pink",
+			"accent-alt": "dark-purple",
+			"text": "white",
+			"ltext":"red",
+			"border-color": "hot-pink",
+			"button-color":"light-blue"
+		}
+	},
+	"fonts": {
+		"Amina": {
+			"normal": {
+				"300": "Amina-Light.ttf",
+				"400": "Amina-Regular.ttf",
+				"500": "Amina-Medium.ttf",
+				"700": "Amina-Bold.ttf",
+				"900": "Amina-Black.ttf"
+			},
+			"italic": {
+				"300": "Amina-LightItalic.ttf",
+				"400": "Amina-RegularItalic.ttf",
+				"500": "Amina-MediumItalic.ttf",
+				"700": "Amina-BoldItalic.ttf",
+				"900": "Amina-BlackItalic.ttf"
+			}
+		}
+	},
+	"headingFont": "Amina",
+	"bodyFont": "Amina"
+}
